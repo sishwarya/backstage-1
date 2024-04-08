@@ -1,5 +1,22 @@
 # @backstage/cli
 
+## 0.26.3-next.1
+
+### Patch Changes
+
+- 6b5ddbe: Fix the backend plugin to use correct plugin id
+- Updated dependencies
+  - @backstage/cli-node@0.2.4
+  - @backstage/config-loader@1.8.0-next.0
+  - @backstage/catalog-model@1.4.5
+  - @backstage/cli-common@0.1.13
+  - @backstage/config@1.2.0
+  - @backstage/errors@1.2.4
+  - @backstage/eslint-plugin@0.1.6
+  - @backstage/integration@1.10.0-next.0
+  - @backstage/release-manifests@0.0.11
+  - @backstage/types@1.1.1
+
 ## 0.26.3-next.0
 
 ### Patch Changes
